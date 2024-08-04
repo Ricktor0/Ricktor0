@@ -8,8 +8,11 @@ I'm currently working on some cool stuff and learning Python along with various 
 - Offensive Security Tools
 
 ## 📫 How to Reach Me
+- Linkedin: [Linkedin's Profile](https://in.linkedin.com/in/vikram-sharma-957513230)
 - Email: [iamvikramsharma1337@proton.me](mailto:iamvikramsharma1337@proton.me)
+- Instagram: [vikr.am121](https://www.instagram.com/vikr.am121/)
 - Blog: [Vikram's Blog](https://medium.com/@vikrambastola)
+  
 
 ## 💡 Fun Fact
 - I am a moody person.
