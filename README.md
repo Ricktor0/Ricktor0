@@ -1,7 +1,7 @@
 # Hi there, I'm Vikram Sharma! 👋
 
 ## About Me
-I'm currently working on some cool stuff and learning Python along with various offensive security tools. I love exploring new technologies and enhancing my skills in the field of cybersecurity.
+I'm currently learning Python along with various offensive security tools. I love exploring new technologies and enhancing my skills in the field of cybersecurity.
 
 ## 🌱 Currently Learning
 - Python
